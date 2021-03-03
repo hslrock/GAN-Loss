@@ -2,6 +2,10 @@
  
 ## Experimenting GAN on MNIST with Different Data (focusing on training method/loss)
 
+
+<li> Vanilla DC GAN
+<li> WGAN-GP
+<li> BEGAN </li>
 Reference:
 
     [1]: https://github.com/lyeoni/pytorch-mnist-GAN/ 
